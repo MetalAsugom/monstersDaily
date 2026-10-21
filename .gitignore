@@ -1,0 +1,74 @@
+# ==============================
+# Gradle
+# ==============================
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ==============================
+# Android Studio / IntelliJ IDEA
+# ==============================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ==============================
+# Android
+# ==============================
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# ==============================
+# Kotlin
+# ==============================
+*.class
+.kotlin/
+
+# ==============================
+# Keystore y firma
+# ==============================
+*.jks
+*.keystore
+
+# ==============================
+# Archivos locales y temporales
+# ==============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# Variables de entorno y secretos
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Firebase (credenciales privadas)
+# ==============================
+# Descomenta si quieres ignorar los archivos de configuración de Firebase:
+# google-services.json
+
+# ==============================
+# Testing y profiling
+# ==============================
+/reports/
