@@ -1,8 +1,92 @@
 <resources>
-    <string name="app_name">monsterDays</string>
-    <string name="fatalis">Fatalis</string>
-    <string name="lunagaron">Lunagaron</string>
-    <string name="Mizutsune">Mizutsune</string>
+    <string name="app_name">Monster Days</string>
+    <string name="tap_to_expand">Tap image to reveal description</string>
+    <string name="tap_to_collapse">Tap image to hide description</string>
 
-    <string name="fatalisDescription">Eats castles</string>
+    <string name="fatalis">Fatalis</string>
+    <string name="fatalisDescription">An ancient dragon capable of incinerating entire kingdoms in a single night.</string>
+
+    <string name="lagiacrus">Lagiacrus</string>
+    <string name="lagiacrusDescription">The Lord of the Seas, a terrifying Leviathan that rules underwater ecosystems with lightning attacks.</string>
+
+    <string name="brachydios">Brachydios</string>
+    <string name="brachydiosDescription">A fiery Brute Wyvern that coats its fists and horn in explosive green slime.</string>
+
+    <string name="great_jaggi">Great Jaggi</string>
+    <string name="great_jaggiDescription">An alpha Bird Wyvern that commands Jaggi packs with distinctive loud howls.</string>
+
+    <string name="dalamadur">Dalamadur</string>
+    <string name="dalamadurDescription">A colossal Elder Dragon of gigantic length that reshapes mountains with its sheer size.</string>
+
+    <string name="bulldrome">Bulldrome</string>
+    <string name="bulldromeDescription">An aggressive giant boar that leads Bullfango herds and charges furiously at foes.</string>
+
+    <string name="ruger_aidal">Ruger &amp; Aidal</string>
+    <string name="ruger_aidalDescription">Mysterious companion hunters hailing from the distant Outlands.</string>
+
+    <string name="barroth">Barroth</string>
+    <string name="barrothDescription">An armored Brute Wyvern that wallows in mud to protect its body from scorching heat.</string>
+
+    <string name="rathalos">Rathalos</string>
+    <string name="rathalosDescription">The King of the Skies, famous for swift aerial strikes and devastating fireballs.</string>
+
+    <string name="teostra">Teostra</string>
+    <string name="teostraDescription">A flame-wreathed Elder Dragon that scatters explosive blast powder around its enemies.</string>
+
+    <string name="lucent_nargacuga">Lucent Nargacuga</string>
+    <string name="lucent_nargacugaDescription">A rare subspecies of Nargacuga that turns invisible in moonlight and launches venomous tail spikes.</string>
+
+    <string name="lunagaron">Lunagaron</string>
+    <string name="lunagaronDescription">A wolf-like Fanged Wyvern that coats its body in icy armor when enraged.</string>
+
+    <string name="malzeno">Malzeno</string>
+    <string name="malzenoDescription">An Elder Dragon covered in elegant silver scales that commands energy-draining Qurio parasites.</string>
+
+    <string name="mizutsune_violet">Violet Mizutsune</string>
+    <string name="mizutsune_violetDescription">A rare Mizutsune variant that produces highly flammable gas bubbles filled with purple fire.</string>
+
+    <string name="valstrax">Crimson Glow Valstrax</string>
+    <string name="valstraxDescription">A mutated Elder Dragon that zooms through the sky like a crimson comet using dragon energy jets.</string>
+
+    <string name="velkhana">Velkhana</string>
+    <string name="velkhanaDescription">An Elder Dragon with the power to freeze all in its path, creating massive ice pillars.</string>
+
+    <string name="deviljho">Deviljho</string>
+    <string name="deviljhoDescription">A nomadic apex predator with a boundless appetite that consumes everything in its path.</string>
+
+    <string name="great_jagras">Great Jagras</string>
+    <string name="great_jagrasDescription">The leader of the Jagras pack, known to swallow prey whole to swell its belly.</string>
+
+    <string name="nergigante">Nergigante</string>
+    <string name="nergiganteDescription">A destructive Elder Dragon known as the Extinction Dragon, feeding on other Elder Dragons.</string>
+
+    <string name="odogaron">Odogaron</string>
+    <string name="odogaronDescription">A terrifyingly agile scavenger that uses dual claws to inflict heavy bleeding.</string>
+
+    <string name="alatreon">Alatreon</string>
+    <string name="alatreonDescription">A legendary Blazing Black Dragon capable of commanding all elemental forces.</string>
+
+    <string name="glavenus">Glavenus</string>
+    <string name="glavenusDescription">A fiery Brute Wyvern with a massive blade-like tail that it sharpens using its jaws.</string>
+
+    <string name="namielle">Namielle</string>
+    <string name="namielleDescription">An Elder Dragon of the deep ocean that manipulates water and electrical discharges.</string>
+
+    <string name="yian_garuga">Yian Garuga</string>
+    <string name="yian_garugaDescription">A short-tempered Bird Wyvern with a hard shell, poisonous tail, and fiery breath.</string>
+
+    <string name="zinogre">Stygian Zinogre</string>
+    <string name="zinogreDescription">A dark subspecies of Zinogre that harnesses Dragon element bugs to unleash lethal dragonfire.</string>
+
+    <string name="arkveld">Arkveld</string>
+    <string name="arkveldDescription">A mysterious apex monster from the Wilds featuring long chain-like wing appendages.</string>
+
+    <string name="gore_magala">Gore Magala</string>
+    <string name="gore_magalaDescription">A blind jet-black wyvern that spreads Frenzy Virus pollen to sense its surroundings.</string>
+
+    <string name="mizutsune">Mizutsune</string>
+    <string name="mizutsuneDescription">A graceful Leviathan that secretes a slick fluid to slide across the battlefield and create bubbles.</string>
+
+    <string name="rey_dau">Rey Dau</string>
+    <string name="rey_dauDescription">An apex Flying Wyvern of the Windward Plains that unleashes powerful lightning railgun strikes.</string>
 </resources>
